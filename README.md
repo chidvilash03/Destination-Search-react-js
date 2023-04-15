@@ -26,8 +26,6 @@ In this project, I built **Destination Search** app.
 <summary>Functionality  added</summary>
 <br/>
 
-The app must have the following functionalities
-
 - Initially, all destinations in the `destinationsList` should be displayed
 - When a value is provided in the search input, only the destinations whose names contain the value provided in the search input should be displayed irrespective of the case
 - The `DestinationSearch` component receives the `destinationsList` as a prop. It consists of a list of destination objects with the following properties in each destination object
