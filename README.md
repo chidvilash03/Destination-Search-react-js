@@ -1,4 +1,4 @@
-In this project, let's build a **Destination Search** app by applying the concepts we have learned till now.
+In this project, I built **Destination Search** app.
 
 ### Refer to the image below:
 
@@ -20,17 +20,10 @@ In this project, let's build a **Destination Search** app by applying the concep
 
 ### Set Up Instructions
 
-<details>
-<summary>Click to view</summary>
-
-- Download dependencies by running `npm install`
-- Start up the app using `npm start`
-</details>
-
 ### Completion Instructions
 
 <details>
-<summary>Functionality to be added</summary>
+<summary>Functionality  added</summary>
 <br/>
 
 The app must have the following functionalities
@@ -62,7 +55,7 @@ The app must have the following functionalities
 <summary>Implementation Files</summary>
 <br/>
 
-Use these files to complete the implementation:
+Used these files to complete the implementation:
 
 - `src/components/DestinationSearch/index.js`
 - `src/components/DestinationSearch/index.css`
@@ -76,19 +69,6 @@ Use these files to complete the implementation:
 <summary>Click to view</summary>
 
 <br/>
-
-**The following instructions are required for the tests to pass**
-
-- The search for the destination should be case insensitive. You can use the `toLowerCase` method to convert a string into lower case letters.
-
-  ```js
-  const text = 'Learn JavaScript'
-  console.log(text.toLowerCase()); // learn javascript
-  ```
-
-- Each `DestinationItem` should have an HTML image element with `alt` attribute value as the value of the key **name** in `destinationsList`
-
-</details>
 
 ### Resources
 
@@ -118,10 +98,3 @@ Use these files to complete the implementation:
 - Open Sans
 
 </details>
-
-> ### _Things to Keep in Mind_
->
-> - All components you implement should go in the `src/components` directory.
-> - Don't change the component folder names as those are the files being imported into the tests.
-> - **Do not remove the pre-filled code**
-> - Want to quickly review some of the concepts you’ve been learning? Take a look at the Cheat Sheets.
