@@ -1,0 +1,18 @@
+/* Write your CSS here */
+
+.main-item {
+  padding: 20px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+}
+.image {
+  width: 300px;
+  margin: 10px;
+  height: 200px;
+}
+.para {
+  color: #0f172a;
+  font-family: 'Roboto';
+  font-size: 20px;
+}
